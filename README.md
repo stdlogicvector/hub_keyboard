@@ -1,6 +1,10 @@
-# NumPad
+# HUB Keyboard
 
 A custom built 80% keyboard with an OLED and an integrated USB hub.
+
+![HUB Keyboard with Numpad attached via USB](hub_keyboard.jpg)
+
+(The ![Numpad](https://github.com/konstantinwerner/numpad) can be found here.)
 
 ## Circuit Board
 
