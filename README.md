@@ -72,6 +72,6 @@ Just put this folder in qmk/keyboards and run
 make hub_keyboard/v1:default
 ```	
 	
-## Case
+## Plate & Case
 
 Coming soon!
