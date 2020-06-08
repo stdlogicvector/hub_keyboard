@@ -1,0 +1,9 @@
+
+pcb/misc
+
+*.b#*
+*.s#*
+*.CAT*
+*.zip
+*.mnb
+*.mnt
