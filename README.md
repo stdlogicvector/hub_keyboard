@@ -78,4 +78,4 @@ make hub_keyboard/v1:default
 	
 ## Plate & Case
 
-Coming soon!
+Plate and Case are available as DXF and STL files. The Case also comes in two halves for easier printing. The DXF contains lines for both layout options at the left shift key. Delete what you don't need before cutting.
