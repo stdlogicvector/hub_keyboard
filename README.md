@@ -57,14 +57,14 @@ The Spacebar can also be replaced by up 5 individual keys.
 
 ### Display
 
-The display is an 0.91" 128x32 SPI OLED module like ![this](https://www.ebay.com/itm/312892164528). They are all over ebay and aliexpress.
+The display is an 0.91" 128x32 SPI OLED module like [this](https://www.ebay.com/itm/312892164528). They are all over ebay and aliexpress.
 
 ### Misc Parts
 
 The USB Connectors can be found on Digikey, but you can substitute others with the same pad layout.#
 
-* USB-C : ![Digikey](https://www.digikey.com/short/zm17vb)
-* USB-A : ![Digikey](https://www.digikey.com/short/zm1tcc)
+* USB-C : [Digikey](https://www.digikey.com/short/zm17vb)
+* USB-A : [Digikey](https://www.digikey.com/short/zm1tcc)
 
 
 ## QMK Configuration
